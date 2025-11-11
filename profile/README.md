@@ -3,8 +3,6 @@
   
 </p>
 
-# WebDevelopers-Org
-
 <h1 align="center">🎨 WebDevelopers-Org</h1>
 <p align="center">
   Welcome to <strong>WebDevelopers-Org</strong> – a community for **frontend developers** building **pure HTML, CSS, and JavaScript projects**!<br>
