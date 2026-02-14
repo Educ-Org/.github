@@ -12,7 +12,11 @@
          style="height:34px; object-fit:contain;" 
          alt="Our Platform"/>
   </a>
- 
+  <a href="https://benzianeyounes.me" target="_blank" style="margin-left:10px;">
+    <img src="https://img.shields.io/badge/Founded%20By-FF0000?style=flat-square&logo=personal-website&logoColor=white" 
+         style="height:34px; object-fit:contain;" 
+         alt="Founded By"/>
+  </a>
   
 </p>
 
